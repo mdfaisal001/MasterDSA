@@ -6,7 +6,6 @@ public:
         for(int i=0; i<derived.size(); i++){
            res^=derived[i];
         }
-        if(res%2==0) return true;
-        return false;
+       return res%2==0;
     }
 };
