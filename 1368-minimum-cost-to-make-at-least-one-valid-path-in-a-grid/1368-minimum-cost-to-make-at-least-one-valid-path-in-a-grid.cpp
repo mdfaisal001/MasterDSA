@@ -25,7 +25,7 @@ public:
                int ncol = col + arr2[i];
                if(nrow<0 || ncol<0 || nrow>=m || ncol>=n) continue;
                int newCost = (grid[row][col]==i+1)? 0 : 1;
-                if(cst + newCost < cost[nrow][ncol] ){
+                if(!visited[nrow][ncol] && cst + newCost < cost[nrow][ncol] ){
                     cost[nrow][ncol] = cst + newCost;
                     pq.push({cost[nrow][ncol],{nrow,ncol}});
                 }
