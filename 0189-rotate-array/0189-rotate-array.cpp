@@ -4,14 +4,10 @@ public:
       int n = nums.size();
       vector<int> temp(n);
        k %= n;
-      for(int i = 0; i<n-k; i++){
-         temp[k+i] = nums[i];
+      for(int i = 0; i<n; i++){
+         temp[(k + i) %n] = nums[i];
       }
-      int j=0;
-      for(int i =n-k; i<n; i++){
-        temp[j] = nums[i];
-        j++;
-      }
+     
       
       nums = temp;
     }
