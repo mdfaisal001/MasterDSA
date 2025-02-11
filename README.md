@@ -66,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/mdfaisal001/MasterDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mdfaisal001/MasterDSA/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
 | ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/mdfaisal001/MasterDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mdfaisal001/MasterDSA/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/mdfaisal001/MasterDSA/tree/master/3447-clear-digits) |
+## Depth-First Search
+|  |
+| ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/mdfaisal001/MasterDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/mdfaisal001/MasterDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
