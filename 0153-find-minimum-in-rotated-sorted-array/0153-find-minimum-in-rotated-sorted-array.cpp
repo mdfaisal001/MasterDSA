@@ -1,18 +1,21 @@
 class Solution {
-public:
-    int findMin(vector<int>& nums) {
-      int low = 0;
-      int high = nums.size()-1;
-      while(low<high){
-        int mid = low + (high - low) / 2;
-        if(nums[mid]> nums[high]){
-            low = mid+1;
+private:
+    int binarySearch(int low, int high , vector<int> &nums){
+        int mid = low + (high - low)/2; // to avoid overflow
+        //basecase
+        if( low == high ) return nums[low];
+        if(nums[mid] > nums[high]){
+            return binarySearch(mid+1,high,nums);
         }
         else{
-            high = mid;
+            return binarySearch(low,mid,nums);
         }
-      }
-      return nums[low];
+    }
+public:
+    int findMin(vector<int>& nums) {
+      int low = 0; 
+      int high = nums.size()-1;
+      return binarySearch(low,high,nums);
     }
 };
 
@@ -27,4 +30,20 @@ public:
        for(int i=0; i<temp.size(); i++){
                 mini = min(temp[i],mini);
        }
-       return mini; */
+       return mini;
+       
+       
+       //iterative 
+       int low = 0;
+      int high = nums.size()-1;
+      while(low<=high){
+        int mid = low + (high - low) / 2;
+        if(nums[mid]> nums[high]){
+            low = mid+1;
+        }
+        else{
+            high = mid;
+        }
+      }
+      return nums[low];
+       */
