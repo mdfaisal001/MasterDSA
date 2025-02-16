@@ -1,6 +1,32 @@
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
+        int low = 0, high = nums.size() - 1;
+        
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+            
+            if (nums[mid] > nums[mid + 1]) {  
+                // Peak is in the left half
+                high = mid;
+            } else {  
+                // Peak is in the right half
+                low = mid + 1;
+            }
+        }
+        
+        return low;  // Peak index
+    }
+};
+
+
+/*intuition if the mid or standing element is greater than mid + 1; that means peak elem is 
+in right half so eliminate left half , else eliminate the right half
+
+brute  loop through the array  from index 0 if arr[i]> arr[i+1] && arr[i]>arr[i-1] return i
+class Solution {
+public:
+    int findPeakElement(vector<int>& nums) {
         int n = nums.size();
         
         if(n == 1) return 0; // Only one element, it's the peak
@@ -16,9 +42,8 @@ public:
         return -1; // Should never reach here for valid input
     }
 };
+;
 
 
-/*intuition if the mid or standing element is greater than mid + 1; that means peak elem is 
-in right half so eliminate left half , else eliminate the right half
 
-brute  loop through the array  from index 0 if arr[i]> arr[i+1] return i;*/
+*/
