@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/mdfaisal001/MasterDSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/mdfaisal001/MasterDSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mdfaisal001/MasterDSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0540-single-element-in-a-sorted-array) |
