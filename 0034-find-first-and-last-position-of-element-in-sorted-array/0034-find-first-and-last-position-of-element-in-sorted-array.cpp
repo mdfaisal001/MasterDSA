@@ -16,13 +16,30 @@ public:
             }
         }
         if(result != -1 && nums[result]==target) vec[0] = result;
-       
-       for (int i = nums.size() - 1; i >= 0; i--) {
+        int start = 0;
+        int end = nums.size()-1;
+        int last = -1;
+        while(start <= end){
+            int mid = start + (end - start) / 2;
+            if(nums[mid]==target){
+                last = mid;
+                start = mid+1;
+            }
+            else if(nums[mid] > target){
+                end = mid-1;
+            }
+            else{
+                 start = mid + 1;
+            }
+        }
+        vec[1] = last;
+        return vec;
+    }
+};
+
+/* for (int i = nums.size() - 1; i >= 0; i--) {
             if (nums[i] == target) {
                 vec[1] = i;
                 break;  // Stop at the first found target from the right
             }
-        }
-        return vec;
-    }
-};
+        } brute for last occurence */
