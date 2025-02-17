@@ -7,12 +7,15 @@ public:
         int result = -1;
         while(low <= high){
             int mid = low + (high - low) / 2;
-            if(nums[mid]>= target){
+            if(nums[mid]== target){
                 result = mid;
                 high = mid-1;
             }
-            else{
-                low = mid +1;
+            else if(nums[mid] <target) { 
+                low = mid + 1;
+            }
+            else {
+                high = mid-1;
             }
         }
         if(result != -1 && nums[result]==target) vec[0] = result;
@@ -43,3 +46,6 @@ public:
                 break;  // Stop at the first found target from the right
             }
         } brute for last occurence */
+
+
+// we can solve it by lowerbound and upperbound-1 bcx upperb end before the actual elem 
