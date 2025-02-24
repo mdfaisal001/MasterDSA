@@ -1,7 +1,24 @@
 class Solution {
 public:
     int findKthPositive(vector<int>& arr, int k) {
-        unordered_map<int, int> map;
+        // Return k-th missing number
+        int n = arr.size();
+        int low = 0;
+        int high = n-1;
+        while(low <= high){
+            int mid = low + (high - low) / 2;
+            int missing = arr[mid] -(mid+1);
+            if(missing < k){
+                low = mid+1;
+            }
+            else high = mid-1;
+        }
+        return low + k; // CHAECK NOTE FOR DETAIL;
+    }
+};
+
+
+/* unordered_map<int, int> map;
         int n = arr.size();
 
         // Store elements of the array in the map
@@ -21,6 +38,4 @@ public:
             i++; // Move to next number
         }
 
-        return missingNumbers[k - 1]; // Return k-th missing number
-    }
-};
+        return missingNumbers[k - 1];*/
