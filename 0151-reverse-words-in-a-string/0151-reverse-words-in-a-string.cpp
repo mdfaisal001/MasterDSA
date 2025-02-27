@@ -12,11 +12,11 @@ public:
         int n= result.size();
         for(int i=0; i<n ;i++){
             if(i==n-1){
-             updated +=result[i] ;
-             continue; 
+             updated +=result[i];
+              continue; 
             } 
             updated += result[i] + " ";
         }
         return updated;
     }
-};
+}; // will optimize while doing two pointers;
