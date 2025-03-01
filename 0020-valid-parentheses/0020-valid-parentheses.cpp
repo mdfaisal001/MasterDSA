@@ -4,7 +4,7 @@ public:
         if (s.empty()) return true; // Handle empty string case
         
         stack<char> st;
-       unordered_map<char, char> mp = {{')', '('}, {'}', '{'}, {']', '['}};
+       map<char, char> mp = {{')', '('}, {'}', '{'}, {']', '['}};
        
         
         for(int i =0; i<s.size();i++){
