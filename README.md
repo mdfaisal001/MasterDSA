@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mdfaisal001/MasterDSA/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/mdfaisal001/MasterDSA/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
 | [1160-letter-tile-possibilities](https://github.com/mdfaisal001/MasterDSA/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/mdfaisal001/MasterDSA/tree/master/1364-tuple-with-same-product) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mdfaisal001/MasterDSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0151-reverse-words-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/mdfaisal001/MasterDSA/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/1078-remove-outermost-parentheses) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/mdfaisal001/MasterDSA/tree/master/0451-sort-characters-by-frequency) |
 | [1160-letter-tile-possibilities](https://github.com/mdfaisal001/MasterDSA/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/mdfaisal001/MasterDSA/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdfaisal001/MasterDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mdfaisal001/MasterDSA/tree/master/0451-sort-characters-by-frequency) |
 | [2434-design-a-number-container-system](https://github.com/mdfaisal001/MasterDSA/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mdfaisal001/MasterDSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/mdfaisal001/MasterDSA/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mdfaisal001/MasterDSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Math
@@ -205,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0812-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mdfaisal001/MasterDSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
