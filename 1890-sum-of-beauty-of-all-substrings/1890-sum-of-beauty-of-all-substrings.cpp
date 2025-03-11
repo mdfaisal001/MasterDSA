@@ -28,7 +28,37 @@ public:
        return sum;
     }
 };
+
 /*class Solution {
+    // optimal 
+    class Solution {
+public:
+    int beautySum(string s) {
+        int n = s.size();
+        int sum = 0;
+
+        for(int i = 0; i < n; i++) {
+            int freq[26] = {0}; // Frequency array for characters
+
+            for(int j = i; j < n; j++) {
+                freq[s[j] - 'a']++; // Update frequency
+
+                // Find min and max frequency (excluding 0s)
+                int mini = INT_MAX, maxi = INT_MIN;
+                for(int k = 0; k < 26; k++) {
+                    if(freq[k] > 0) { // Consider only present characters
+                        mini = min(mini, freq[k]);
+                        maxi = max(maxi, freq[k]);
+                    }
+                }
+
+                sum += (maxi - mini);
+            }
+        }
+        return sum;
+    }
+};
+
 private:
     void frequency(map<char,int> &mp , string &substring){
             for(char c : substring){
