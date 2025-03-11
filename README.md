@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
 | [1160-letter-tile-possibilities](https://github.com/mdfaisal001/MasterDSA/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/mdfaisal001/MasterDSA/tree/master/1364-tuple-with-same-product) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/mdfaisal001/MasterDSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdfaisal001/MasterDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/mdfaisal001/MasterDSA/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/mdfaisal001/MasterDSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdfaisal001/MasterDSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/mdfaisal001/MasterDSA/tree/master/1160-letter-tile-possibilities) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/mdfaisal001/MasterDSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdfaisal001/MasterDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mdfaisal001/MasterDSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/mdfaisal001/MasterDSA/tree/master/2032-largest-odd-number-in-string) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mdfaisal001/MasterDSA/tree/master/0451-sort-characters-by-frequency) |
 | [1160-letter-tile-possibilities](https://github.com/mdfaisal001/MasterDSA/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/mdfaisal001/MasterDSA/tree/master/1364-tuple-with-same-product) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/mdfaisal001/MasterDSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdfaisal001/MasterDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/mdfaisal001/MasterDSA/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
