@@ -11,7 +11,15 @@ public:
                 auto mini = min_element(mp.begin(),mp.end(),
                 [](const auto &a , const auto &b) {return a.second < b.second ;});
                 auto maxi = max_element(mp.begin(), mp.end(),[]
-                (const auto &a, const auto &b) {return a.second < b.second ;});
+                (const auto &a, const auto &b) {return a.second < b.second ;}); // lamda fun to find
+
+                /* we can use it too  for(auto it:mpp){
+                    maxi = max(maxi,it.second);
+                    mini = min(mini,it.second);
+                } */
+
+
+
                 int maximum = maxi->second;
                 int minimum = mini->second;
                 sum +=(maximum - minimum);
