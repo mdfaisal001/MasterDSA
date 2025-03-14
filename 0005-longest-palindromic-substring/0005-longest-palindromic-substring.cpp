@@ -4,13 +4,14 @@ private:
         while(left>=0 && right < s.size() && s[left] == s[right]){
             left--;
             right++;
-        }
-        return s.substr(left+1, right-left-1);
+        } // expanding outward and inward
+        return s.substr(left+1, right-left-1); // once the condition fail we are generating the substr;
     }
 public:
     string longestPalindrome(string s) {
         int n = s.size();
         string longest ="";
+        if(n==1) return s;
         for(int i=0;i<n;i++){
                 // odd check
             string odd = expandOut(s,i,i);
