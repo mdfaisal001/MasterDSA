@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mdfaisal001/MasterDSA/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/mdfaisal001/MasterDSA/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mdfaisal001/MasterDSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/mdfaisal001/MasterDSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mdfaisal001/MasterDSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/0020-valid-parentheses) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mdfaisal001/MasterDSA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0151-reverse-words-in-a-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mdfaisal001/MasterDSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Greedy
