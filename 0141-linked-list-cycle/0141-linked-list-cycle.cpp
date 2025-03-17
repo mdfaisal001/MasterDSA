@@ -16,7 +16,28 @@ public:
             fast = fast->next->next;
            if(fast == slow) return true;
         }
-       
        return false;
     }
 };
+
+/*class Solution {
+public:
+    bool hasCycle(ListNode* head) {
+        if (head == NULL) {
+            return false;
+        }
+        map<ListNode*, bool> visited;
+        ListNode* temp = head;
+
+        while (temp != NULL) {
+            if (visited[temp] == true) {
+                return true;
+            }
+            visited[temp] = true;
+            temp = temp->next;
+        }
+        return false;
+    }
+};
+ // checking the nodes with hashmap by visited or not technique; 
+ we can also use map with find method if the address already visited thus exists a cycle*/
