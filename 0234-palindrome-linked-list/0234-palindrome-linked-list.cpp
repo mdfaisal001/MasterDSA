@@ -9,6 +9,34 @@
  * };
  */
 class Solution {
+public:
+    bool isPalindrome(ListNode* head) {
+     // find the  middle 
+     ListNode* slow = head , *fast = head , *prev=NULL;
+     while(fast && fast->next){
+        slow = slow->next;
+        fast = fast->next->next;
+     }
+     // reversing the second half;
+     while(slow){
+        ListNode* temp = slow;
+        temp = temp->next;
+        slow->next = prev;
+        prev = slow;
+        slow = temp;
+     }
+     // comparing first half and second half
+     ListNode* left = head , *right = prev;
+     while(right){
+        if(left->val != right->val) return false;
+        left = left->next;
+        right = right->next;
+     }
+    return true;
+}
+};  
+
+/* 
 private:
     void pushToStack(ListNode* head, stack<ListNode*> &st){
         ListNode* temp = head;
@@ -28,6 +56,4 @@ public:
           if(current->val != node->val) return false;
           current = current->next;
       }
-      return true;
-}
-};
+      return true;  // o(n) O(n); */
