@@ -15,7 +15,7 @@ public:
         ListNode* temp = head;
         while(temp){
             count++;
-            temp = temp->next;
+            temp = temp->next; // finding the length of the ll
         }
         if(n == count){
             ListNode *delHead = head;
@@ -26,7 +26,9 @@ public:
 
         int result = count - n;
         temp = head;
-        while(--result > 0){
+        while(temp){
+            result--;
+            if(result == 0) break;
             temp = temp->next;
         }
         ListNode* delNode = temp->next;
