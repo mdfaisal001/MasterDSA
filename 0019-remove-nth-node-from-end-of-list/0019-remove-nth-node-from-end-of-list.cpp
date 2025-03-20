@@ -11,28 +11,20 @@
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        int count = 0;
-        ListNode* temp = head;
-        while(temp){
-            count++;
-            temp = temp->next; // finding the length of the ll
+        // we can solve it by 2 pointers;
+        // first we move the fast pointer to the n ;
+        // now move the slow pointer and fast pointer one step until the fast reaches the last node
+        // now we reach the prev of the del node and delete the node
+        ListNode* fast = head;
+        for(int i=0; i<n; i++) fast = fast->next;
+        ListNode* slow = head;
+        if(fast == NULL) return head->next;
+        while(fast->next){
+            slow = slow->next;
+            fast = fast->next;
         }
-        if(n == count){
-            ListNode *delHead = head;
-            head = head->next;
-            delete delHead;
-            return head;
-        }
-
-        int result = count - n;
-        temp = head;
-        while(temp){
-            result--;
-            if(result == 0) break;
-            temp = temp->next;
-        }
-        ListNode* delNode = temp->next;
-        temp->next = temp->next->next;
+        ListNode* delNode = slow->next;
+        slow->next = slow->next->next;
         delete delNode;
         return head;
     }
