@@ -11,11 +11,13 @@ private:
 
       
             if(i > index && combination[i] == combination[i-1]) continue;
-             if(combination[i] > target) break;
-
-             temp.push_back(combination[i]);
+             if(combination[i] <= target) {
+                     temp.push_back(combination[i]);
              getCombination(i + 1, target - combination[i], temp, result, combination);
              temp.pop_back();
+             }
+
+            
         
       }
  }
