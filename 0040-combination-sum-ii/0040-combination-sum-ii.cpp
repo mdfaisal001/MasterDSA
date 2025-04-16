@@ -7,18 +7,16 @@ private:
         }
 
         
-        for(int i = index; i < combination.size();i++){  // to explore multiple option
+        for(int i = index; i < combination.size();i++){  // to explore multiple option for pick or non pick
 
       
             if(i > index && combination[i] == combination[i-1]) continue;
-             if(combination[i] <= target) {
-                     temp.push_back(combination[i]);
-             getCombination(i + 1, target - combination[i], temp, result, combination);
-             temp.pop_back();
-             }
 
-            
-        
+                 if(combination[i] >target)  break  ;// if the conditon was broke on the first call theres no meaning to check other calls its definitely have larger elements bcz its sorted
+                     temp.push_back(combination[i]);
+                     getCombination(i + 1, target - combination[i], temp, result, combination);
+                     temp.pop_back();
+                
       }
  }
 
@@ -27,7 +25,6 @@ public:
         sort(candidates.begin(), candidates.end()); // for consistency
         vector<int> temp;
         vector<vector<int>> result;
-
         getCombination(0, target, temp, result, candidates);
 
         return result;
