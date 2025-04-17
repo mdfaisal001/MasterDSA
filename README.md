@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/mdfaisal001/MasterDSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/mdfaisal001/MasterDSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mdfaisal001/MasterDSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/mdfaisal001/MasterDSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mdfaisal001/MasterDSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mdfaisal001/MasterDSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
