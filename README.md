@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mdfaisal001/MasterDSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/mdfaisal001/MasterDSA/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/mdfaisal001/MasterDSA/tree/master/0131-palindrome-partitioning) |
 | [1013-fibonacci-number](https://github.com/mdfaisal001/MasterDSA/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mdfaisal001/MasterDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/mdfaisal001/MasterDSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/mdfaisal001/MasterDSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mdfaisal001/MasterDSA/tree/master/0242-valid-anagram) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/mdfaisal001/MasterDSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/mdfaisal001/MasterDSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0216-combination-sum-iii) |
 | [1160-letter-tile-possibilities](https://github.com/mdfaisal001/MasterDSA/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/mdfaisal001/MasterDSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
