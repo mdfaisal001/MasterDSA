@@ -1,6 +1,6 @@
 class Solution {
 private:
-    bool findPalindrome(string substring , int start , int end){
+    bool findPalindrome(string &substring , int start , int end){
         while(start < end){
             if(substring[start]!=substring[end]){
                 return false;
