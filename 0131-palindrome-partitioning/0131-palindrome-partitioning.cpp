@@ -10,7 +10,7 @@ private:
         }
         return true;
     }
-    void findPartition(int start, string s, vector<string> temp, vector<vector<string>> &result){
+    void findPartition(int start, string &s, vector<string> temp, vector<vector<string>> &result){
         if(start == s.size()){
             result.push_back(temp);
             return;
