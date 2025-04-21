@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mdfaisal001/MasterDSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/mdfaisal001/MasterDSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/mdfaisal001/MasterDSA/tree/master/0118-pascals-triangle) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mdfaisal001/MasterDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/mdfaisal001/MasterDSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/mdfaisal001/MasterDSA/tree/master/0205-isomorphic-strings) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0079-word-search) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdfaisal001/MasterDSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/mdfaisal001/MasterDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mdfaisal001/MasterDSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mdfaisal001/MasterDSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/mdfaisal001/MasterDSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/mdfaisal001/MasterDSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0216-combination-sum-iii) |
