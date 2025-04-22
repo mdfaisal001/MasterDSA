@@ -1,45 +1,57 @@
 class Solution {
 private:
- bool isUnique(string worditself){
-    //tofind self uniqueness
-    unordered_set<char> st;
-    for(auto ch :worditself){
-        if(st.count(ch))return false;
-        st.insert(ch);
-    }
-    return true;
- }
- bool findUnique(string searchString , string defalt){
-      unordered_set<char> set(defalt.begin(), defalt.end());
-      for(auto ch : searchString){
-        if(set.count(ch)) return false;
-      }
-      return true;
- }
- void findMax(int index,vector<string>& arr, string temp,int &maxi){
-    if(index == arr.size()){
-        if(isUnique(temp)) {
-            maxi = max(maxi,(int)temp.size());
+
+    // ✅ Check if a single word has all unique characters (no duplicates within itself)
+    bool isUnique(string worditself){
+        unordered_set<char> st;
+        for(auto ch : worditself){
+            if(st.count(ch)) return false; // if already present → not unique
+            st.insert(ch);                 // else insert
         }
-        return;
+        return true; // if no duplicates, return true
     }
 
-    if(findUnique(arr[index],temp)){
-        findMax(index+1,arr,temp + arr[index],maxi);
-
+    // ✅ Check if 'searchString' can be added to 'defalt' without any overlapping characters
+    bool findUnique(string searchString , string defalt){
+        unordered_set<char> set(defalt.begin(), defalt.end()); // create set from existing characters
+        for(auto ch : searchString){
+            if(set.count(ch)) return false; // if any char is already in set → can't add
+        }
+        return true; // all characters are unique
     }
-    findMax(index+1,arr,temp,maxi);
-    
- }  
+
+    // ✅ Recursive function to try every combination (pick / not pick)
+    void findMax(int index, vector<string>& arr, string temp, int &maxi){
+        
+        // \U0001f501 Base Case: If we've checked all strings
+        if(index == arr.size()){
+            if(isUnique(temp)) {  // only consider if temp itself is valid
+                maxi = max(maxi, (int)temp.size()); // update the max size
+            }
+            return;
+        }
+
+        // \U0001f501 Choice 1: Pick current string if it's valid with temp
+        if(findUnique(arr[index], temp)){
+            // add arr[index] to temp and move to next
+            findMax(index + 1, arr, temp + arr[index], maxi);
+        }
+
+        // \U0001f501 Choice 2: Skip current string and move to next
+        findMax(index + 1, arr, temp, maxi);
+    }
 
 public:
+
+    // \U0001f680 Main function
     int maxLength(vector<string>& arr) {
-        string temp ="";
-        int maxi=0;
-        findMax(0,arr,"",maxi);
+        string temp = ""; // holds the current combination
+        int maxi = 0;     // tracks maximum valid length
+        findMax(0, arr, temp, maxi); // start recursion
         return maxi;
     }
 };
+
 
 /*class Solution {
 private:
