@@ -1,49 +1,45 @@
 class Solution {
 private:
-    // Check if a string has all unique characters
-    bool isUnique(const string& s) {
-        unordered_set<char> st;
-        for (char ch : s) {
-            if (st.count(ch)) return false;
-            st.insert(ch);
+ bool isUnique(string worditself){
+    //tofind self uniqueness
+    unordered_set<char> st;
+    for(auto ch :worditself){
+        if(st.count(ch))return false;
+        st.insert(ch);
+    }
+    return true;
+ }
+ bool findUnique(string searchString , string defalt){
+      unordered_set<char> set(defalt.begin(), defalt.end());
+      for(auto ch : searchString){
+        if(set.count(ch)) return false;
+      }
+      return true;
+ }
+ void findMax(int index,vector<string>& arr, string temp,int &maxi){
+    if(index == arr.size()){
+        if(isUnique(temp)) {
+            maxi = max(maxi,(int)temp.size());
         }
-        return true;
+        return;
     }
 
-    // Check if current string can be added to existing
-    bool canMerge(const string& a, const string& b) {
-        unordered_set<char> st(a.begin(), a.end());
-        for (char ch : b) {
-            if (st.count(ch)) return false;
-        }
-        return true;
+    if(findUnique(arr[index],temp)){
+        findMax(index+1,arr,temp + arr[index],maxi);
+
     }
-
-    void solve(vector<string>& arr, int index, string curr, int& maxi) {
-        if (index == arr.size()) {
-            if (isUnique(curr)) {
-                maxi = max(maxi, (int)curr.size());
-            }
-            return;
-        }
-
-        // \U0001f449 Don't pick current string
-        solve(arr, index + 1, curr, maxi);
-
-        // \U0001f449 Pick current string if no conflict
-        if (canMerge(curr, arr[index])) {
-            solve(arr, index + 1, curr + arr[index], maxi);
-        }
-    }
+    findMax(index+1,arr,temp,maxi);
+    
+ }  
 
 public:
     int maxLength(vector<string>& arr) {
-        int maxi = 0;
-        solve(arr, 0, "", maxi);
+        string temp ="";
+        int maxi=0;
+        findMax(0,arr,"",maxi);
         return maxi;
     }
 };
-
 
 /*class Solution {
 private:
