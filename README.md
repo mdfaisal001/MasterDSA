@@ -325,4 +325,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/mdfaisal001/MasterDSA/tree/master/0231-power-of-two) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mdfaisal001/MasterDSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/mdfaisal001/MasterDSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
