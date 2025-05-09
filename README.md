@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mdfaisal001/MasterDSA/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0260-single-number-iii) |
 | [0485-max-consecutive-ones](https://github.com/mdfaisal001/MasterDSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mdfaisal001/MasterDSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/mdfaisal001/MasterDSA/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0260-single-number-iii) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mdfaisal001/MasterDSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mdfaisal001/MasterDSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
