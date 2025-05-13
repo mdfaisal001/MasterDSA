@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdfaisal001/MasterDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mdfaisal001/MasterDSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/mdfaisal001/MasterDSA/tree/master/2032-largest-odd-number-in-string) |
+| [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/mdfaisal001/MasterDSA/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [3447-clear-digits](https://github.com/mdfaisal001/MasterDSA/tree/master/3447-clear-digits) |
 ## Counting
 |  |
@@ -335,4 +336,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mdfaisal001/MasterDSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/mdfaisal001/MasterDSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mdfaisal001/MasterDSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/mdfaisal001/MasterDSA/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 <!---LeetCode Topics End-->
