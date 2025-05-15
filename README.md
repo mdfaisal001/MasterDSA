@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0260-single-number-iii) |
+| [0455-assign-cookies](https://github.com/mdfaisal001/MasterDSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/mdfaisal001/MasterDSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mdfaisal001/MasterDSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/mdfaisal001/MasterDSA/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/mdfaisal001/MasterDSA/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mdfaisal001/MasterDSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Math
@@ -274,12 +276,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/mdfaisal001/MasterDSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/mdfaisal001/MasterDSA/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/mdfaisal001/MasterDSA/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/mdfaisal001/MasterDSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mdfaisal001/MasterDSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mdfaisal001/MasterDSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/mdfaisal001/MasterDSA/tree/master/0455-assign-cookies) |
 | [2032-largest-odd-number-in-string](https://github.com/mdfaisal001/MasterDSA/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
