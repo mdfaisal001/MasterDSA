@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/mdfaisal001/MasterDSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mdfaisal001/MasterDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/mdfaisal001/MasterDSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/mdfaisal001/MasterDSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0137-single-number-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/mdfaisal001/MasterDSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mdfaisal001/MasterDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/mdfaisal001/MasterDSA/tree/master/0131-palindrome-partitioning) |
 | [1013-fibonacci-number](https://github.com/mdfaisal001/MasterDSA/tree/master/1013-fibonacci-number) |
 ## Hash Table
