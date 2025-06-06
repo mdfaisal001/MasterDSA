@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/mdfaisal001/MasterDSA/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mdfaisal001/MasterDSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mdfaisal001/MasterDSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1499-maximum-performance-of-a-team](https://github.com/mdfaisal001/MasterDSA/tree/master/1499-maximum-performance-of-a-team) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mdfaisal001/MasterDSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/mdfaisal001/MasterDSA/tree/master/1646-kth-missing-positive-number) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mdfaisal001/MasterDSA/tree/master/1706-min-cost-to-connect-all-points) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mdfaisal001/MasterDSA/tree/master/0451-sort-characters-by-frequency) |
+| [1499-maximum-performance-of-a-team](https://github.com/mdfaisal001/MasterDSA/tree/master/1499-maximum-performance-of-a-team) |
 | [2434-design-a-number-container-system](https://github.com/mdfaisal001/MasterDSA/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mdfaisal001/MasterDSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mdfaisal001/MasterDSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mdfaisal001/MasterDSA/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
+| [1499-maximum-performance-of-a-team](https://github.com/mdfaisal001/MasterDSA/tree/master/1499-maximum-performance-of-a-team) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mdfaisal001/MasterDSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Math
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mdfaisal001/MasterDSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mdfaisal001/MasterDSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/mdfaisal001/MasterDSA/tree/master/0890-lemonade-change) |
+| [1499-maximum-performance-of-a-team](https://github.com/mdfaisal001/MasterDSA/tree/master/1499-maximum-performance-of-a-team) |
 | [2032-largest-odd-number-in-string](https://github.com/mdfaisal001/MasterDSA/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
