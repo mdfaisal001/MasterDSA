@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/mdfaisal001/MasterDSA/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/mdfaisal001/MasterDSA/tree/master/0917-boats-to-save-people) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mdfaisal001/MasterDSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mdfaisal001/MasterDSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mdfaisal001/MasterDSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/mdfaisal001/MasterDSA/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mdfaisal001/MasterDSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mdfaisal001/MasterDSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/mdfaisal001/MasterDSA/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/mdfaisal001/MasterDSA/tree/master/1013-fibonacci-number) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mdfaisal001/MasterDSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mdfaisal001/MasterDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/mdfaisal001/MasterDSA/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/mdfaisal001/MasterDSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mdfaisal001/MasterDSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/mdfaisal001/MasterDSA/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/mdfaisal001/MasterDSA/tree/master/0917-boats-to-save-people) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mdfaisal001/MasterDSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1499-maximum-performance-of-a-team](https://github.com/mdfaisal001/MasterDSA/tree/master/1499-maximum-performance-of-a-team) |
 | [2032-largest-odd-number-in-string](https://github.com/mdfaisal001/MasterDSA/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
