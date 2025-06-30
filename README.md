@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mdfaisal001/MasterDSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mdfaisal001/MasterDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/mdfaisal001/MasterDSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/mdfaisal001/MasterDSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/mdfaisal001/MasterDSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/mdfaisal001/MasterDSA/tree/master/0205-isomorphic-strings) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mdfaisal001/MasterDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/mdfaisal001/MasterDSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/mdfaisal001/MasterDSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0151-reverse-words-in-a-string) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/mdfaisal001/MasterDSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/mdfaisal001/MasterDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mdfaisal001/MasterDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
