@@ -1,22 +1,23 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        if (s1.length() > s2.length()) return false;
-
-        vector<int> freq1(256, 0), freq2(256, 0);
-
-        for (char c : s1) freq1[c]++;
-        for (int i = 0; i < s1.length(); i++) freq2[s2[i]]++;
-
-        if (freq1 == freq2) return true;
-
-        for (int i = s1.length(); i < s2.length(); i++) {
-            freq2[s2[i]]++;                          // add right
-            freq2[s2[i - s1.length()]]--;            // remove left
-
-            if (freq1 == freq2) return true;
+        vector<int>hash1(26,0);
+        vector<int>hash2(26,0);
+         if(s1.length() > s2.length()) return false;
+        for(auto letters:s1){
+            hash1[letters-'a']++;
         }
-
+        for(int i=0; i<s1.size(); i++){
+                hash2[s2[i]-'a']++;
+        } 
+        
+        if(hash1== hash2) return true;
+        for(int i=s1.size(); i<s2.size(); i++){
+            hash2[s2[i]-'a']++;
+            hash2[s2[i-s1.size()]-'a']--;
+            if(hash1 == hash2) return true;
+        }
         return false;
+        /*s1->fixed size window , indirect one for anagram we need equal size */
     }
 };
