@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mdfaisal001/MasterDSA/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0260-single-number-iii) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mdfaisal001/MasterDSA/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mdfaisal001/MasterDSA/tree/master/0907-koko-eating-bananas) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/mdfaisal001/MasterDSA/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mdfaisal001/MasterDSA/tree/master/0560-subarray-sum-equals-k) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/mdfaisal001/MasterDSA/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/mdfaisal001/MasterDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0966-binary-subarrays-with-sum) |
