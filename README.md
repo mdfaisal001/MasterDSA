@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mdfaisal001/MasterDSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/mdfaisal001/MasterDSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/mdfaisal001/MasterDSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/mdfaisal001/MasterDSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/mdfaisal001/MasterDSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0079-word-search) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mdfaisal001/MasterDSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/mdfaisal001/MasterDSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/mdfaisal001/MasterDSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdfaisal001/MasterDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/mdfaisal001/MasterDSA/tree/master/0131-palindrome-partitioning) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mdfaisal001/MasterDSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/mdfaisal001/MasterDSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/mdfaisal001/MasterDSA/tree/master/0148-sort-list) |
 ## Tree
 |  |
