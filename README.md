@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/mdfaisal001/MasterDSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/mdfaisal001/MasterDSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/mdfaisal001/MasterDSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mdfaisal001/MasterDSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/mdfaisal001/MasterDSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdfaisal001/MasterDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/mdfaisal001/MasterDSA/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/mdfaisal001/MasterDSA/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/mdfaisal001/MasterDSA/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
