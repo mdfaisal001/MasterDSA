@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/mdfaisal001/MasterDSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/mdfaisal001/MasterDSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdfaisal001/MasterDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/mdfaisal001/MasterDSA/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mdfaisal001/MasterDSA/tree/master/0242-valid-anagram) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mdfaisal001/MasterDSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mdfaisal001/MasterDSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/mdfaisal001/MasterDSA/tree/master/0148-sort-list) |
