@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/mdfaisal001/MasterDSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/mdfaisal001/MasterDSA/tree/master/0303-range-sum-query-immutable) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mdfaisal001/MasterDSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mdfaisal001/MasterDSA/tree/master/0455-assign-cookies) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdfaisal001/MasterDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/mdfaisal001/MasterDSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/mdfaisal001/MasterDSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/mdfaisal001/MasterDSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/mdfaisal001/MasterDSA/tree/master/0908-middle-of-the-linked-list) |
