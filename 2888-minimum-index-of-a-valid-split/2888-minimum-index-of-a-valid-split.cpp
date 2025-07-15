@@ -24,7 +24,13 @@ public:
           if(num == majorityElem) dominantCount++;
       }
        
-       //
+       /* the problem was about the divided subarrays should have tht dominant majority elem as dominant , 
+       1.so for left side comparison finding the left size which is i+1,
+       2. for frequency = which is counting the dominant elem;
+       3. right side = n -leftside;
+       4. right freq = dominantfre - left freq
+       whenever both condition true we return the indexes because we are going from r to l so its always minimum ;
+       */
       int leftFreq = 0;
       for(int i=0; i<n;i++){
          
