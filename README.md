@@ -242,12 +242,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/mdfaisal001/MasterDSA/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/mdfaisal001/MasterDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mdfaisal001/MasterDSA/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/mdfaisal001/MasterDSA/tree/master/0547-number-of-provinces) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/mdfaisal001/MasterDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mdfaisal001/MasterDSA/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
@@ -267,12 +269,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0079-word-search) |
+| [0547-number-of-provinces](https://github.com/mdfaisal001/MasterDSA/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdfaisal001/MasterDSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/mdfaisal001/MasterDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/mdfaisal001/MasterDSA/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/mdfaisal001/MasterDSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Binary Search
