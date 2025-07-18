@@ -1,22 +1,20 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        istringstream iss(s);
-        string word;
-        vector<string>result;
-        while(iss >> word){
-            result.push_back(word);
-        }
-        reverse(result.begin(),result.end());
-        string updated;
-        int n= result.size();
-        for(int i=0; i<n ;i++){
-            if(i==n-1){
-             updated +=result[i];
-              continue; 
-            } 
-            updated += result[i] + " ";
-        }
-        return updated;
+       stringstream ss(s);
+       string word;
+       vector<string>words;
+       while(ss >> word){
+          words.push_back(word);
+       }
+       reverse(words.begin(), words.end());
+       string finalString = "";
+       for(int i=0; i<words.size(); i++){
+            finalString+=words[i];
+            if(i!=words.size()-1){
+                finalString+=" ";
+            }
+       }
+       return finalString;
     }
-}; // will optimize while doing two pointers;
+};
