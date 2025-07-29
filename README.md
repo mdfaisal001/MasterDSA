@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mdfaisal001/MasterDSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mdfaisal001/MasterDSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/mdfaisal001/MasterDSA/tree/master/1364-tuple-with-same-product) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mdfaisal001/MasterDSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mdfaisal001/MasterDSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mdfaisal001/MasterDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1499-maximum-performance-of-a-team](https://github.com/mdfaisal001/MasterDSA/tree/master/1499-maximum-performance-of-a-team) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/mdfaisal001/MasterDSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/mdfaisal001/MasterDSA/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/mdfaisal001/MasterDSA/tree/master/1364-tuple-with-same-product) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mdfaisal001/MasterDSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mdfaisal001/MasterDSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mdfaisal001/MasterDSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mdfaisal001/MasterDSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/mdfaisal001/MasterDSA/tree/master/1013-fibonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mdfaisal001/MasterDSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mdfaisal001/MasterDSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mdfaisal001/MasterDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/mdfaisal001/MasterDSA/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/mdfaisal001/MasterDSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mdfaisal001/MasterDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mdfaisal001/MasterDSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mdfaisal001/MasterDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mdfaisal001/MasterDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/mdfaisal001/MasterDSA/tree/master/1603-running-sum-of-1d-array) |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/mdfaisal001/MasterDSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mdfaisal001/MasterDSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mdfaisal001/MasterDSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mdfaisal001/MasterDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Quickselect
