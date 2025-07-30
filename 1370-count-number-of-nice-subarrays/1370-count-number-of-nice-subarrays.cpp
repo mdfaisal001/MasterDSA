@@ -5,11 +5,12 @@ public:
        unordered_map<int,int> freq;
        freq[0] =1;
        for(int i=0; i<n ;i++){
-            nums[i] = (nums[i]&1)?1:0;
-            prefixSum+=nums[i];
-            int leftInterval = prefixSum - k;
+            nums[i] = (nums[i]&1)?1:0; //changing all even to 0s and odd to 1s;
+             
+            prefixSum+=nums[i]; // finding prefix sum;
+            int leftInterval = prefixSum - k; // finding p[l-1] by p[r]-goal;
             if(freq.find(leftInterval) != freq.end()){
-                total+=(freq[leftInterval]);
+                total+=(freq[leftInterval]); // if found update the left intervals freq, because if it exists mean the sub array after than have sum is equal to goal;
             }
             freq[prefixSum]++;
        }
