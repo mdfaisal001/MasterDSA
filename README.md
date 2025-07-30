@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/mdfaisal001/MasterDSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/mdfaisal001/MasterDSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/mdfaisal001/MasterDSA/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mdfaisal001/MasterDSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/mdfaisal001/MasterDSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mdfaisal001/MasterDSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
 | [0917-boats-to-save-people](https://github.com/mdfaisal001/MasterDSA/tree/master/0917-boats-to-save-people) |
 | [1499-maximum-performance-of-a-team](https://github.com/mdfaisal001/MasterDSA/tree/master/1499-maximum-performance-of-a-team) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/mdfaisal001/MasterDSA/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mdfaisal001/MasterDSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mdfaisal001/MasterDSA/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Math
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mdfaisal001/MasterDSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mdfaisal001/MasterDSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/mdfaisal001/MasterDSA/tree/master/1646-kth-missing-positive-number) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/mdfaisal001/MasterDSA/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mdfaisal001/MasterDSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Data Stream
 |  |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mdfaisal001/MasterDSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1499-maximum-performance-of-a-team](https://github.com/mdfaisal001/MasterDSA/tree/master/1499-maximum-performance-of-a-team) |
 | [2032-largest-odd-number-in-string](https://github.com/mdfaisal001/MasterDSA/tree/master/2032-largest-odd-number-in-string) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/mdfaisal001/MasterDSA/tree/master/2263-maximum-running-time-of-n-computers) |
 ## Trie
 |  |
 | ------- |
