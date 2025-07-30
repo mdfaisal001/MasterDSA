@@ -5,7 +5,7 @@ private:
         for(int i=0;i<batteries.size(); i++){
             total+=min((long long) batteries[i] , time);
         }
-        return total >= time * n;
+        return total >= time * n;  // checking greeding , the total time required for the n comp with this time is t *n , checking the min time by each battery to check its more than total time.
     }
 public:
     long long maxRunTime(int n, vector<int>& batteries) {
