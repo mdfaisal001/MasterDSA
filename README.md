@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mdfaisal001/MasterDSA/tree/master/0560-subarray-sum-equals-k) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mdfaisal001/MasterDSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mdfaisal001/MasterDSA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0792-binary-search) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdfaisal001/MasterDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/mdfaisal001/MasterDSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/mdfaisal001/MasterDSA/tree/master/0152-maximum-product-subarray) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mdfaisal001/MasterDSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/mdfaisal001/MasterDSA/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mdfaisal001/MasterDSA/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mdfaisal001/MasterDSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mdfaisal001/MasterDSA/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mdfaisal001/MasterDSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
 | [0917-boats-to-save-people](https://github.com/mdfaisal001/MasterDSA/tree/master/0917-boats-to-save-people) |
 | [1499-maximum-performance-of-a-team](https://github.com/mdfaisal001/MasterDSA/tree/master/1499-maximum-performance-of-a-team) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/mdfaisal001/MasterDSA/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mdfaisal001/MasterDSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mdfaisal001/MasterDSA/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mdfaisal001/MasterDSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/mdfaisal001/MasterDSA/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/mdfaisal001/MasterDSA/tree/master/0917-boats-to-save-people) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mdfaisal001/MasterDSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
