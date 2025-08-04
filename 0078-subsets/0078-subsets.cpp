@@ -7,10 +7,10 @@ private:
             return;
         } // base case for printing the subset;
 
-        temp.push_back(nums[index]);
-        findSubset(index+1,result,temp,nums);
-        temp.pop_back();
-        findSubset(index+1, result,temp,nums);
+        temp.push_back(nums[index]); // picking the case
+        findSubset(index+1,result,temp,nums); // call the pick 
+        temp.pop_back(); // not picking 
+        findSubset(index+1, result,temp,nums); // call the not pick;
     }
 
 public:
