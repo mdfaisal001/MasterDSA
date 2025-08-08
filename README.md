@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mdfaisal001/MasterDSA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0792-binary-search) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/mdfaisal001/MasterDSA/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0890-lemonade-change](https://github.com/mdfaisal001/MasterDSA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/mdfaisal001/MasterDSA/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/mdfaisal001/MasterDSA/tree/master/0917-boats-to-save-people) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mdfaisal001/MasterDSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/mdfaisal001/MasterDSA/tree/master/0768-partition-labels) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/mdfaisal001/MasterDSA/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0908-middle-of-the-linked-list](https://github.com/mdfaisal001/MasterDSA/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/mdfaisal001/MasterDSA/tree/master/0917-boats-to-save-people) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mdfaisal001/MasterDSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
