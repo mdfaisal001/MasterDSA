@@ -8,7 +8,7 @@ public:
        
         
         for(int i =0; i<s.size();i++){
-            if(mp.find(s[i])==mp.end()){
+            if(s[i]=='(' || s[i] == '[' || s[i] == '{'){
                 st.push(s[i]);
             }
             else{
