@@ -7,10 +7,14 @@ class Solution {
         int singleNumber =0;
         for(Map.Entry<Integer,Integer> entry: freq.entrySet()){
             if(entry.getValue() ==1){
-                singleNumber = entry.getKey();
-                break;
+                return entry.getKey();
             }
         }
-        return singleNumber;
+        return 0;
     }
 }
+
+/* 
+for(auto pair: freq){
+    if(pair.second == 1) return pair.key;
+}*/
