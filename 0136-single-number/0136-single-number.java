@@ -1,9 +1,16 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int xorr = 0;
-        for(int i=0; i<nums.length; i++){
-            xorr ^= nums[i];
+        HashMap<Integer,Integer> freq = new HashMap<>();
+        for(int num : nums){
+            freq.put(num , freq.getOrDefault(num,0) +1);
         }
-        return xorr;
+        int singleNumber =0;
+        for(Map.Entry<Integer,Integer> entry: freq.entrySet()){
+            if(entry.getValue() ==1){
+                singleNumber = entry.getKey();
+                break;
+            }
+        }
+        return singleNumber;
     }
 }
