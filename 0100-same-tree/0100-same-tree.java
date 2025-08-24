@@ -15,10 +15,35 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        if(p == null && q == null) return true;
-        if(p == null || q == null) return false;
-        if(p.val != q.val) return false;
+       Queue<Pair<TreeNode,TreeNode>> que = new LinkedList<>();
+       if(p == null &&  q== null) return true;
+       if(p != null && q !=null) {
+            que.add(new Pair<>(p,q));
+       }
+       else return false;
 
-        return isSameTree(p.left,q.left) && isSameTree(p.right,q.right);
+       while(!que.isEmpty()){
+            int size = que.size();
+
+            for(int i=0; i<size; i++){
+                TreeNode pNode = que.peek().getKey();
+                TreeNode qNode = que.peek().getValue();
+                que.poll();
+
+                if(pNode.val != qNode.val) return false;
+
+                if ((pNode.left == null) ^ (qNode.left == null)) return false;
+                if ((pNode.right == null) ^ (qNode.right == null)) return false;
+                if (pNode.left != null && qNode.left != null) {
+                    que.add(new Pair<>(pNode.left, qNode.left));
+                }
+                if (pNode.right != null && qNode.right != null) {
+                    que.add(new Pair<>(pNode.right, qNode.right));
+                }
+            }
+       }
+
+       return true;
     }
 }
+
