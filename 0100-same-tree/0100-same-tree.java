@@ -34,6 +34,8 @@ class Solution {
 
                 if ((pNode.left == null) ^ (qNode.left == null)) return false;
                 if ((pNode.right == null) ^ (qNode.right == null)) return false;
+               // in xor true ^ true return false , false ^ false return false; so whenver both are null , and not null retrn false;
+
                 if (pNode.left != null && qNode.left != null) {
                     que.add(new Pair<>(pNode.left, qNode.left));
                 }
