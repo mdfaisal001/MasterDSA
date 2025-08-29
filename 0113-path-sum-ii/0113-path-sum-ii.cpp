@@ -19,6 +19,7 @@ private:
          if(!node->left && !node->right){
              if(sum == targetSum){
                 result.push_back(temp);
+                
              }
          }
         
