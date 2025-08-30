@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/mdfaisal001/MasterDSA/tree/master/0200-number-of-islands) |
+| [0437-path-sum-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/mdfaisal001/MasterDSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/mdfaisal001/MasterDSA/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/mdfaisal001/MasterDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0113-path-sum-ii) |
+| [0437-path-sum-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/mdfaisal001/MasterDSA/tree/master/0543-diameter-of-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdfaisal001/MasterDSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/mdfaisal001/MasterDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0113-path-sum-ii) |
+| [0437-path-sum-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/mdfaisal001/MasterDSA/tree/master/0543-diameter-of-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mdfaisal001/MasterDSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Two Pointers
