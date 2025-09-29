@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/mdfaisal001/MasterDSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/mdfaisal001/MasterDSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/mdfaisal001/MasterDSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0047-permutations-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdfaisal001/MasterDSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mdfaisal001/MasterDSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/mdfaisal001/MasterDSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/mdfaisal001/MasterDSA/tree/master/0118-pascals-triangle) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mdfaisal001/MasterDSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/mdfaisal001/MasterDSA/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mdfaisal001/MasterDSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mdfaisal001/MasterDSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/mdfaisal001/MasterDSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mdfaisal001/MasterDSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0142-linked-list-cycle-ii) |
@@ -545,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mdfaisal001/MasterDSA/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mdfaisal001/MasterDSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
