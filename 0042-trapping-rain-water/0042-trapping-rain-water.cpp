@@ -21,6 +21,8 @@ public:
 
 
         // now find the water which is stored between two walls;
+
+        //maxRightHeight is the maximum left wall and maxRightHeight is the maximum right wall. it gives us the area a wall canhold;
         int total = 0;
         for(int i=0; i<n;i++){
             if(maxLeftHeight[i] > height[i] && height[i] < maxRightHeight[i]){
