@@ -1,6 +1,6 @@
 class Solution {
-    HashMap<Character,String> mp = new HashMap();
-        public Solution(){
+   HashMap<Character, String> mp = new HashMap<>();
+   Solution(){
             mp.put('2', "abc");
             mp.put('3', "def");
             mp.put('4', "ghi");
@@ -9,26 +9,25 @@ class Solution {
             mp.put('7', "pqrs");
             mp.put('8', "tuv");
             mp.put('9', "wxyz");
-        }
-    private void findCombination(int index, StringBuilder temp ,List<String> result, String digits){
-        
+   }
+
+    private void findLetters(int index, StringBuffer temp, List<String> result, String digits){
         if(index == digits.length()){
             result.add(temp.toString());
             return;
         }
-
-        String currentString = mp.get(digits.charAt(index));
-        for(int i=0; i<currentString.length() ; i++){
-            temp.append(currentString.charAt(i));
-            findCombination(index+1,temp,result,digits);
+        
+        String current = mp.get(digits.charAt(index));
+        for(char c : current.toCharArray()){
+            temp.append(c);
+            findLetters(index+1,temp,result,digits); // here index+1 not i+1;
             temp.deleteCharAt(temp.length()-1);
         }
     }
     public List<String> letterCombinations(String digits) {
-        StringBuilder temp = new StringBuilder();
-        List<String> result = new ArrayList();
-        if(digits.isEmpty()) return result;
-        findCombination(0,temp,result,digits);
-        return result;
+       StringBuffer temp = new StringBuffer();
+       List<String> result = new ArrayList<>();
+       findLetters(0,temp,result,digits);
+       return result;
     }
 }
