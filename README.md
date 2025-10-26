@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/mdfaisal001/MasterDSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/mdfaisal001/MasterDSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2169-simple-bank-system](https://github.com/mdfaisal001/MasterDSA/tree/master/2169-simple-bank-system) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/mdfaisal001/MasterDSA/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mdfaisal001/MasterDSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/mdfaisal001/MasterDSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/mdfaisal001/MasterDSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mdfaisal001/MasterDSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdfaisal001/MasterDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2169-simple-bank-system](https://github.com/mdfaisal001/MasterDSA/tree/master/2169-simple-bank-system) |
 | [2434-design-a-number-container-system](https://github.com/mdfaisal001/MasterDSA/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/mdfaisal001/MasterDSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mdfaisal001/MasterDSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mdfaisal001/MasterDSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2169-simple-bank-system](https://github.com/mdfaisal001/MasterDSA/tree/master/2169-simple-bank-system) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mdfaisal001/MasterDSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/mdfaisal001/MasterDSA/tree/master/3447-clear-digits) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mdfaisal001/MasterDSA/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mdfaisal001/MasterDSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [2169-simple-bank-system](https://github.com/mdfaisal001/MasterDSA/tree/master/2169-simple-bank-system) |
 | [2434-design-a-number-container-system](https://github.com/mdfaisal001/MasterDSA/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
