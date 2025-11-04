@@ -1,18 +1,18 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<char,int>mp;
+        int freq[26] = {0};
         if (s.length() != t.length())
             return false;
        for(char letters : t){
-           mp[letters]++;
+           freq[letters - 'a']++;
        } 
        for(auto character : s){
-            if(mp.find(character) != mp.end()){
-                mp[character]--;
-                if(mp[character] == 0) mp.erase(character);
-            }
+           freq[character - 'a']--;
+           if(freq[character-'a'] < 0) return false;
+        }
+        return true;
        }
-       return mp.empty();
-    }
+       
+    
 };
