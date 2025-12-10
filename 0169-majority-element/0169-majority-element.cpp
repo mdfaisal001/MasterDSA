@@ -1,27 +1,23 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-       int count =1;
-       int elem = nums[0];
-       for(int i=1;i<nums.size(); i++){
-            if(count == 0){
-                elem = nums[i];
-                count = 1;
-            }
-            else if(nums[i] == elem ){
-                count++;
-            }
-            else{
-                count--;
-            }
-       }  // boyer morres algo , the maximum elements frew is not cancelled by othe el
-       
-       //2.checking that its really more than n/2;
+       int count = 1 , n = nums.size();
+       int majElem = nums[0];
+
+       for(int i=1; i<nums.size(); i++){
+           if(count ==0){
+              count = 1;
+              majElem = nums[i];
+           }
+           else if(nums[i] != majElem) count--;
+           else count++;
+       }
+
        int freq = 0;
        for(int i=0; i<nums.size(); i++){
-            if(nums[i] == elem) freq++;
+            if(nums[i] == majElem) freq++;
        }
-       if(freq > nums.size()/2) return elem;
+       if(freq >= n/2) return majElem;
        return -1;
     }
 };
