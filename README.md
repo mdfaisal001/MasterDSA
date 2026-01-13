@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/mdfaisal001/MasterDSA/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0812-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mdfaisal001/MasterDSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/mdfaisal001/MasterDSA/tree/master/1078-remove-outermost-parentheses) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0812-rotate-string) |
 ## Bucket Sort
 |  |
