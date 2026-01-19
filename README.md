@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/mdfaisal001/MasterDSA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0792-binary-search) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/mdfaisal001/MasterDSA/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0875-koko-eating-bananas](https://github.com/mdfaisal001/MasterDSA/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/mdfaisal001/MasterDSA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/mdfaisal001/MasterDSA/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/mdfaisal001/MasterDSA/tree/master/0917-boats-to-save-people) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/mdfaisal001/MasterDSA/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/mdfaisal001/MasterDSA/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/1046-max-consecutive-ones-iii) |
