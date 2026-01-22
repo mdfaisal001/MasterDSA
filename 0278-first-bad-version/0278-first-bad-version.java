@@ -14,6 +14,6 @@ public class Solution extends VersionControl {
             }
             else low = mid + 1;
         }
-        return bad;
+        return low;
     }
 }
