@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mdfaisal001/MasterDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mdfaisal001/MasterDSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/mdfaisal001/MasterDSA/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mdfaisal001/MasterDSA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0792-binary-search) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mdfaisal001/MasterDSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mdfaisal001/MasterDSA/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/mdfaisal001/MasterDSA/tree/master/0658-find-k-closest-elements) |
 | [1499-maximum-performance-of-a-team](https://github.com/mdfaisal001/MasterDSA/tree/master/1499-maximum-performance-of-a-team) |
 | [2434-design-a-number-container-system](https://github.com/mdfaisal001/MasterDSA/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mdfaisal001/MasterDSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mdfaisal001/MasterDSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mdfaisal001/MasterDSA/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mdfaisal001/MasterDSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/mdfaisal001/MasterDSA/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/mdfaisal001/MasterDSA/tree/master/0721-accounts-merge) |
 | [0917-boats-to-save-people](https://github.com/mdfaisal001/MasterDSA/tree/master/0917-boats-to-save-people) |
 | [1499-maximum-performance-of-a-team](https://github.com/mdfaisal001/MasterDSA/tree/master/1499-maximum-performance-of-a-team) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/mdfaisal001/MasterDSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/mdfaisal001/MasterDSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/mdfaisal001/MasterDSA/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mdfaisal001/MasterDSA/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/mdfaisal001/MasterDSA/tree/master/0907-koko-eating-bananas) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mdfaisal001/MasterDSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/mdfaisal001/MasterDSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/mdfaisal001/MasterDSA/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/mdfaisal001/MasterDSA/tree/master/0768-partition-labels) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/mdfaisal001/MasterDSA/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0908-middle-of-the-linked-list](https://github.com/mdfaisal001/MasterDSA/tree/master/0908-middle-of-the-linked-list) |
@@ -567,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mdfaisal001/MasterDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/mdfaisal001/MasterDSA/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/mdfaisal001/MasterDSA/tree/master/1034-subarrays-with-k-different-integers) |
