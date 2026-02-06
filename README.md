@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/mdfaisal001/MasterDSA/tree/master/2169-simple-bank-system) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/mdfaisal001/MasterDSA/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mdfaisal001/MasterDSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2404-most-frequent-even-element](https://github.com/mdfaisal001/MasterDSA/tree/master/2404-most-frequent-even-element) |
 | [2448-count-number-of-bad-pairs](https://github.com/mdfaisal001/MasterDSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mdfaisal001/MasterDSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mdfaisal001/MasterDSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mdfaisal001/MasterDSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdfaisal001/MasterDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2169-simple-bank-system](https://github.com/mdfaisal001/MasterDSA/tree/master/2169-simple-bank-system) |
+| [2404-most-frequent-even-element](https://github.com/mdfaisal001/MasterDSA/tree/master/2404-most-frequent-even-element) |
 | [2434-design-a-number-container-system](https://github.com/mdfaisal001/MasterDSA/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/mdfaisal001/MasterDSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mdfaisal001/MasterDSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/mdfaisal001/MasterDSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mdfaisal001/MasterDSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mdfaisal001/MasterDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2404-most-frequent-even-element](https://github.com/mdfaisal001/MasterDSA/tree/master/2404-most-frequent-even-element) |
 | [2448-count-number-of-bad-pairs](https://github.com/mdfaisal001/MasterDSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mdfaisal001/MasterDSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
