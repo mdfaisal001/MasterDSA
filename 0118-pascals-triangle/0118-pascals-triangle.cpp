@@ -1,23 +1,30 @@
 class Solution {
 private:
-    vector<int> createRows(int row){
-        vector<int> ans;
-        int res=1;
-        ans.push_back(1);
-        for(int col = 1 ; col<row ; col++){
-            res = res * (row-col);
-            res= res/(col);
-            ans.push_back(res);
+    void pascal(vector<vector<int>> &matrix,vector<vector<int>> &result){
+       
+        matrix[1][1] = 1;
+        vector<int> temp;
+        temp.push_back(matrix[1][1]);
+        result.push_back(temp);
+        int size = 2;
+
+        for(int i=2; i<matrix.size(); i++){
+            temp.clear();
+            for(int j=1;j<=size; j++){
+                matrix[i][j] = matrix[i-1][j-1] + matrix[i-1][j];
+                temp.push_back(matrix[i][j]);
+            }
+           
+            result.push_back(temp);
+            
+            size++;
         }
-        return  ans;
     }
 public:
     vector<vector<int>> generate(int numRows) {
-        int n= numRows;
-        vector<vector<int>>result;
-        for(int i=1;i<=n ;i++){
-            result.push_back(createRows(i));
-        }
+        vector<vector<int>> matrix(numRows+1, vector<int>(numRows + 1, 0));
+        vector<vector<int>> result;
+        pascal(matrix,result);
         return result;
     }
 };
