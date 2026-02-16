@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mdfaisal001/MasterDSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/mdfaisal001/MasterDSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/mdfaisal001/MasterDSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/mdfaisal001/MasterDSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mdfaisal001/MasterDSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/mdfaisal001/MasterDSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mdfaisal001/MasterDSA/tree/master/0075-sort-colors) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mdfaisal001/MasterDSA/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mdfaisal001/MasterDSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mdfaisal001/MasterDSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-simple-bank-system](https://github.com/mdfaisal001/MasterDSA/tree/master/2169-simple-bank-system) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mdfaisal001/MasterDSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mdfaisal001/MasterDSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/mdfaisal001/MasterDSA/tree/master/0200-number-of-islands) |
