@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mdfaisal001/MasterDSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/mdfaisal001/MasterDSA/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/mdfaisal001/MasterDSA/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/mdfaisal001/MasterDSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mdfaisal001/MasterDSA/tree/master/0242-valid-anagram) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/mdfaisal001/MasterDSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/mdfaisal001/MasterDSA/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/mdfaisal001/MasterDSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mdfaisal001/MasterDSA/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mdfaisal001/MasterDSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/mdfaisal001/MasterDSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/mdfaisal001/MasterDSA/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/mdfaisal001/MasterDSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mdfaisal001/MasterDSA/tree/master/0268-missing-number) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mdfaisal001/MasterDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/mdfaisal001/MasterDSA/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/mdfaisal001/MasterDSA/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mdfaisal001/MasterDSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mdfaisal001/MasterDSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -632,4 +636,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mdfaisal001/MasterDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/mdfaisal001/MasterDSA/tree/master/0200-number-of-islands) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/mdfaisal001/MasterDSA/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/mdfaisal001/MasterDSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
