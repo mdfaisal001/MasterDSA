@@ -1,24 +1,29 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
         if (head == null) return null;
 
-        HashMap<Integer, Boolean> mp = new HashMap<>();
+        ListNode prev = head;
+        ListNode temp = head.next;
 
-        ListNode curr = head;
-        ListNode prev = null;
-
-        while (curr != null) {
-            if (mp.containsKey(curr.val)) {
-                // delete curr
-                prev.next = curr.next;
-                curr = curr.next;
-            } else {
-                mp.put(curr.val, true);
-                prev = curr;       // move prev only if NOT deleted
-                curr = curr.next;
+        while(temp != null ){
+            while(temp != null && temp.val == prev.val){
+                temp = temp.next; // move the next pointer if anydup
             }
-        }
 
+            prev.next = temp;
+            prev = temp;
+            if(temp!=null)temp = temp.next;
+        }
         return head;
     }
 }
