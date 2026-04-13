@@ -35,7 +35,7 @@ class Solution {
         ListNode left = head;
         ListNode right = prev;
 
-        while(right != null && right!=null){
+        while(right != null){
             if(left.val != right.val) return false;
             left = left.next;
             right = right.next;
