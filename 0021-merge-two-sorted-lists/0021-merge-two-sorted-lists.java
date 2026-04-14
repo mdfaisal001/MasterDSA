@@ -23,7 +23,7 @@ class Solution {
                 temp1 = temp1.next;
                 temp.next = temp2;
                
-                temp2 = temp2.next;
+                temp2 = temp2.next;  //to avaoid these messy things, just make the condition like temp1.val <= temp2.val;
             }
             else if(temp1.val < temp2.val ){
                  temp.next = temp1;
