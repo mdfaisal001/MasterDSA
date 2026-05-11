@@ -1,6 +1,7 @@
 class Solution {
 private:
     void getCombination(int index, int target, vector<int> temp, vector<vector<int>> &result, vector<int>& combination) {  
+        if(target < 0 ) return;
         if (target == 0) {
            result.push_back(temp);
            return;
