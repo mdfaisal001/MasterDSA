@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/mdfaisal001/MasterDSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mdfaisal001/MasterDSA/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/mdfaisal001/MasterDSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mdfaisal001/MasterDSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/mdfaisal001/MasterDSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/mdfaisal001/MasterDSA/tree/master/0053-maximum-subarray) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mdfaisal001/MasterDSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/mdfaisal001/MasterDSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/mdfaisal001/MasterDSA/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/mdfaisal001/MasterDSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mdfaisal001/MasterDSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mdfaisal001/MasterDSA/tree/master/0231-power-of-two) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mdfaisal001/MasterDSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mdfaisal001/MasterDSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mdfaisal001/MasterDSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/mdfaisal001/MasterDSA/tree/master/0079-word-search) |
