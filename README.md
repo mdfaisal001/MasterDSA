@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mdfaisal001/MasterDSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mdfaisal001/MasterDSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/mdfaisal001/MasterDSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/mdfaisal001/MasterDSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/mdfaisal001/MasterDSA/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mdfaisal001/MasterDSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mdfaisal001/MasterDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/mdfaisal001/MasterDSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/mdfaisal001/MasterDSA/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/mdfaisal001/MasterDSA/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/mdfaisal001/MasterDSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/mdfaisal001/MasterDSA/tree/master/0658-find-k-closest-elements) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mdfaisal001/MasterDSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/mdfaisal001/MasterDSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/mdfaisal001/MasterDSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/mdfaisal001/MasterDSA/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/mdfaisal001/MasterDSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/mdfaisal001/MasterDSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/mdfaisal001/MasterDSA/tree/master/0658-find-k-closest-elements) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mdfaisal001/MasterDSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/mdfaisal001/MasterDSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mdfaisal001/MasterDSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mdfaisal001/MasterDSA/tree/master/0287-find-the-duplicate-number) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mdfaisal001/MasterDSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/mdfaisal001/MasterDSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mdfaisal001/MasterDSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
