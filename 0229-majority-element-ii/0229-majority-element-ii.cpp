@@ -22,7 +22,8 @@ public:
                 freq2--;
             }
 
-       }
+       } /*Quick note for me :how it asures the values is always <=2?
+         because when n is divided by 3 only 2 elements is possible to occur morethan n/3 , 9 /3 = 3, if 3 elem occur more than n/3, the freq is 12,its greater than the n */
 
        // checking the frequency of maj elem greater than the n/3
 
