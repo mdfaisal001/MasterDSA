@@ -14,6 +14,7 @@ public:
                         ans.push_back({nums[i], nums[j], nums[l], nums[r]});
                         ++l; --r;
                         while (l < r && nums[l-1] == nums[l]) ++l; // Skip duplicate nums[l]
+                        while (l < r && nums[r] == nums[r + 1]) r--; //skp dup on right
                     } else if (nums[l] + nums[r] > goal) {
                         --r;
                     } else {
