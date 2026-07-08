@@ -11,6 +11,7 @@ class Solution {
          }
     }
 
+
     public void nextPermutation(int[] nums) {
         int point = -1;
         int n = nums.length;
@@ -37,4 +38,5 @@ class Solution {
 
         reverse(nums,point+1);
     }
+    
 }
