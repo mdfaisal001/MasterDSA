@@ -12,12 +12,12 @@ public:
          else count--;
       }
 
-      unordered_map<int,int>  mp;
+     int freq = 0;
       for(auto num : nums){
-         mp[num]++;
+         if(majElem == num) freq++;
       }
 
-      if(mp[majElem] > n/2 ) return majElem;
+      if(freq > n/2 ) return majElem;
 
       return -1;
     }
